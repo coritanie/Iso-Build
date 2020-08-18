@@ -1,22 +1,22 @@
 #!/bin/bash
 ./cleanup*
-#carli
+#Coritani
 sudo chown -R root airootfs/
 sudo chgrp -R root airootfs/
 
 set -e -u
 
-iso_name=carli
-iso_label="CARLI_$(date +%Y%m)"
-iso_publisher="Carli Linux <http://www.arcolinuxiso.com>"
-iso_application="Carli Linux Live/Rescue CD"
+iso_name=Coritani
+iso_label="Coritani_$(date +%Y%m)"
+iso_publisher="Coritani Linux <http://www.arcolinuxiso.com>"
+iso_application="Coritani Linux Live/Rescue CD"
 iso_version=$(date +%Y.%m.%d)
 install_dir=arch
 work_dir=work
 out_dir=out
 gpg_key=""
 
-#carli
+#Coritani
 verbose="-v"
 script_path=$(readlink -f ${0%/*})
 
