@@ -77,15 +77,18 @@ wvdial
 xfsprogs
 xl2tpd
 
-#Carli
-sddm
-deepin
-deepin-extra
+#Coritani - Test with Awesome  requires new config files also
+thunar
+thunar-archive-plugin
+thunar-volman
+xfce4-terminal
+awesome
+vicious
 bash-completion
 
 #Calamares
 calamares
-carli-calamares-config
+#carli-calamares-config  *requires new one*
 grub
 
 #Software
