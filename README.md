@@ -1,4 +1,4 @@
-# ArcoLinuxIso Carli-7
+# Coritani test build
 
 Start building your own carli version with 
 
